@@ -36,9 +36,11 @@ A visually engaging 3D gaming-themed website built with modern web development t
 <center>
 <table>
   <tr>
-    <td><img src="https://github.com/Mahesh7Kumar/Job-Market-Analysis-System/blob/main/frontend/src/assets/Screenshot%202025-06-26%20104505.png" width="150"/></td>
-    <td><img src="https://github.com/Mahesh7Kumar/Job-Market-Analysis-System/blob/main/frontend/src/assets/Screenshot%202025-06-26%20114220.png" width="150"/></td>
-    <td><img src="https://github.com/Mahesh7Kumar/Job-Market-Analysis-System/blob/main/frontend/src/assets/Screenshot%202025-06-26%20114409.png" width="150"/></td>
+    <td><img src="https://github.com/Mahesh7Kumar/3D-gaming/blob/main/public/images/Screenshot%202025-06-29%20123810.png" width="150"/></td>
+    <td><img src="https://github.com/Mahesh7Kumar/3D-gaming/blob/main/public/images/Screenshot%202025-06-29%20123747.png" width="150"/></td>
+    <td><img src="https://github.com/Mahesh7Kumar/3D-gaming/blob/main/public/images/Screenshot%202025-06-29%20123710.png" width="150"/></td>
+      <td><img src="https://github.com/Mahesh7Kumar/3D-gaming/blob/main/public/images/Screenshot%202025-06-29%20123550.png" width="150"/></td>
+    <tr> <td><img src="https://github.com/Mahesh7Kumar/3D-gaming/blob/main/public/images/Screenshot%202025-06-29%20123308.png" width="150"/></td></tr>
   </tr>
 </table>
 </center>

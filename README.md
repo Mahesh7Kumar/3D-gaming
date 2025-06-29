@@ -1,12 +1,52 @@
-# React + Vite
+# 🎮 3D Gaming Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A visually engaging 3D gaming-themed website built with modern web development tools and animation libraries. This project showcases UI/UX design, smooth animations, and a responsive layout ideal for gaming portfolios or interactive websites.
 
-Currently, two official plugins are available:
+## 🧠 [Live](https://3d-gaming.netlify.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 3D animations and transitions
+- Smooth scrolling and responsive layout
+- Modern and clean UI/UX design
+- Optimized for performance
+- Fully mobile responsive
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+- React
+- [GSAP](https://greensock.com/gsap/) (for animations)
+- [ScrollTrigger](https://greensock.com/scrolltrigger/) (scroll-based animations)
+
+## 📁 File Structure
+
+```bash
+3D-gaming/
+├── assets/ # Images and multimedia files
+│ ├── bg.jpg
+│ └── logo.png
+├── css/
+│ └── style.css # Main stylesheet
+├── js/
+│ └── script.js # JavaScript logic and GSAP animations
+├── index.html # Main HTML page
+├── README.md # Project documentation
+```
+## 💻 projects View:
+<center>
+<table>
+  <tr>
+    <td><img src="https://github.com/Mahesh7Kumar/Job-Market-Analysis-System/blob/main/frontend/src/assets/Screenshot%202025-06-26%20104505.png" width="150"/></td>
+    <td><img src="https://github.com/Mahesh7Kumar/Job-Market-Analysis-System/blob/main/frontend/src/assets/Screenshot%202025-06-26%20114220.png" width="150"/></td>
+    <td><img src="https://github.com/Mahesh7Kumar/Job-Market-Analysis-System/blob/main/frontend/src/assets/Screenshot%202025-06-26%20114409.png" width="150"/></td>
+  </tr>
+</table>
+</center>
+
+## 💻 How to Clone This Repository:
+Follow the steps below to get a copy of the project on your local machine:
+
+```bash
+git clone https://github.com/Mahesh7Kumar/3D-gaming.git
+cd 3D-gaming
+```
